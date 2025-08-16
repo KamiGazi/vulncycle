@@ -1,0 +1,3 @@
+# Ignore DVWA clone (user pulls this separately)
+lab-setup/DVWA/
+

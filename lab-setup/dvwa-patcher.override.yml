@@ -1,0 +1,4 @@
+services:
+  dvwa:
+    volumes:
+      - ../../patches/dvwa/sqli/low.php:/var/www/html/vulnerabilities/sqli/source/low.php
