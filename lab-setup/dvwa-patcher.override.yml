@@ -2,3 +2,4 @@ services:
   dvwa:
     volumes:
       - ../../patches/dvwa/sqli/low.php:/var/www/html/vulnerabilities/sqli/source/low.php
+      - ../../patches/dvwa/xss_r/low.php:/var/www/html/vulnerabilities/xss_r/source/low.php
