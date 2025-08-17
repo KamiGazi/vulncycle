@@ -48,7 +48,8 @@ docker compose down
 
 Refer to the [DVWA repository](https://github.com/digininja/DVWA) for more details on DVWA, though the app itself is pretty self-explanatory. 
 
-For each vulnerability and patch, make sure you are setting the expected security level in DVWA. 
+For each vulnerability and patch, make sure you are setting the expected security level in DVWA.
+
 ---
 
 ## Patched Mode
